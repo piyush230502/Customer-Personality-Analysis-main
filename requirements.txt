@@ -6,4 +6,6 @@ PyYAML
 seaborn
 scikit-learn
 flask
+streamlit
+plotly
 -e .
